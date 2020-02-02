@@ -4,7 +4,7 @@
 
 [GitHub Repo](https://github.com/Matt1cheney/dailyEnterprise_planner)
 
-[URL](https://matt1cheney.github.io/dailyEnterprise_planner/)
+[URL](https://matt1cheney.github.io/dailyEnterprise_planner/index.html)
 
 
 ## my javascript
